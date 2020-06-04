@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:OrderedFolder"
+    lcFolder="{Long}0">
+    <jcr:content/>
+    <canvas-2-0/>
+    <canvas-3-0/>
+    <beryl/>
+    <exec/>
+    <exec-light/>
+    <liberty/>
+    <tranquil/>
+    <ultramarine/>
+    <urbane/>
+    <us-web-design-standards/>
+</jcr:root>
